@@ -31,13 +31,13 @@ Certified in **Agile and Traditional Project Management**, I bring **strong busi
 ### **🔹 ABC Pharmaceutical Sales Analysis Dashboard**  
 - Built an **interactive dashboard** to assess sales trends, customer segmentation, and product performance.  
 - Performed **geospatial analysis, hypothesis testing, and statistical modeling** using SQL and Python.  
-- 📌 [Project Repository](https://github.com/OkorigweClinton/ABC-Pharmaceutical-Sales-Analysis)  
+- 📌 [Project Repository]([https://github.com/OkorigweClinton/ABC-Pharmaceutical-Sales-Analysis](https://github.com/OkorigweClinton/3signet))  
 
 ### **🔹 AdventureWorks Sales Analysis Dashboard**  
 - Analyzed **sales trends, customer behavior, and product performance** using SQL and Python.  
 - Conducted **time-series analysis, customer segmentation, and territorial performance evaluation**.  
 - Designed a **star schema** and created **data visualizations** with Tableau and Matplotlib.  
-- 📌 [Project Repository](https://github.com/OkorigweClinton/AdventureWorks-Sales-Analysis)  
+- 📌 [Project Repository]([https://github.com/OkorigweClinton/AdventureWorks-Sales-Analysis](https://github.com/OkorigweClinton/3signet))  
 
 ### **🔹 Bellabit Case Study**  
 - Analyzed **Fitbit data** to enhance marketing strategies for **Bellabit**, a smart device company.  
