@@ -37,7 +37,7 @@ Certified in **Agile and Traditional Project Management**, I bring **strong busi
 - Analyzed **sales trends, customer behavior, and product performance** using SQL and Python.  
 - Conducted **time-series analysis, customer segmentation, and territorial performance evaluation**.  
 - Designed a **star schema** and created **data visualizations** with Tableau and Matplotlib.  
-- 📌 [Project Repository]([https://github.com/OkorigweClinton/AdventureWorks-Sales-Analysis](https://github.com/OkorigweClinton/3signet))  
+- 📌 [Project Repository](https://github.com/OkorigweClinton/3signet)  
 
 ### **🔹 Bellabit Case Study**  
 - Analyzed **Fitbit data** to enhance marketing strategies for **Bellabit**, a smart device company.  
