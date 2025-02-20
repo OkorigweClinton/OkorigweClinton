@@ -31,7 +31,7 @@ Certified in **Agile and Traditional Project Management**, I bring **strong busi
 ### **🔹 ABC Pharmaceutical Sales Analysis Dashboard**  
 - Built an **interactive dashboard** to assess sales trends, customer segmentation, and product performance.  
 - Performed **geospatial analysis, hypothesis testing, and statistical modeling** using SQL and Python.  
-- 📌 [Project Repository]([https://github.com/OkorigweClinton/ABC-Pharmaceutical-Sales-Analysis](https://github.com/OkorigweClinton/3signet))  
+- 📌 [Project Repository](https://github.com/OkorigweClinton/3signet) 
 
 ### **🔹 AdventureWorks Sales Analysis Dashboard**  
 - Analyzed **sales trends, customer behavior, and product performance** using SQL and Python.  
